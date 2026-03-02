@@ -50,7 +50,7 @@
     > 
     > <copy>pip install -r requirements.txt</copy>
     >
-    > <copy>mkdocs serve</copy>
+    > <copy>mkdocs serve --livereload</copy>
     >
     > Open a browser to [http://127.0.0.1:8000](http://127.0.0.1:8000){:target="_blank"}
     >
@@ -67,7 +67,7 @@
     >     
     > <copy>pip install -r requirements.txt</copy>
     >
-    > <copy>mkdocs serve</copy>
+    > <copy>mkdocs serve --livereload</copy>
     >
     > Open a browser to [http://127.0.0.1:8000](http://127.0.0.1:8000){:target="_blank"}
 

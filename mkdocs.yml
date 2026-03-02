@@ -72,9 +72,9 @@ markdown_extensions:
   - meta
   - tables
   - pymdownx.details
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+  # - pymdownx.emoji:
+  #     emoji_index: !!python/name:materialx.emoji.twemoji
+  #     emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.highlight
   - pymdownx.tabbed:
       alternate_style: true
@@ -88,9 +88,12 @@ nav:
   - Home: index.md
   - Lab:
       - Overview: overview.md
-      - Lab 1 - Getting Started: lab1_getting_started.md
-      - Conclusion: conclusion.md
-  - Topologies: topologies.md
+      - Let's Play A Game: lab1.md
+      - Let's Play Another Way: lab2.md
+      - Let's Cheat: lab3.md
+      # - Lab 1 - Getting Started: lab1_getting_started.md
+      # - Conclusion: conclusion.md
+  # - Topologies: topologies.md
   - How to use this guide:
       - Setting up and using the tool:
         - Initial Setup: howToUse/initialSetup.md
