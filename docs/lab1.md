@@ -5,7 +5,7 @@
 
 
 ## Game Time!
-> Call <w class="EP">your assigned inbound number</w> 
+> Call 14849925078
 > 
 > Select option 1 at the menu
 > 

@@ -3,7 +3,7 @@
 > In this lab you will be exploring how an Autonomous AI Agent is constructed by playing the same game of Guess Who then comparing and contrasting how the configuration and logic are used to drive the outcome.
 
 ## Game Time!
-> Call <w class="EP">your assigned inbound number</w> 
+> Call 14849925078
 > 
 > Select option 2 at the menu
 > 

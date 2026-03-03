@@ -2,7 +2,7 @@
 
 ## Learning Objectives
 
-This lab will give you an introduction to 
+This lab will give you an introduction to AI Agents and Real-time Assist
 
 ## Disclaimer
 
@@ -10,12 +10,6 @@ Although the lab design and configuration examples could be used as a reference,
 
 ## Lab Access
 
-From your workstation open an RDP (Remote Desktop) session to the following host named "wkst1":
+[Control Hub](https://admin.webex.com){:target="_blank"}
 
-- IP: 1.2.3.4
-- Username: corp\demouser
-- Password: C1sco12345
-
-## Getting Started
-
-This lab leverages Cisco dCloud ...
+Credentials will be provided in the room

@@ -91,16 +91,17 @@ nav:
       - Let's Play A Game: lab1.md
       - Let's Play Another Way: lab2.md
       - Let's Cheat: lab3.md
+      - Bob's Pool and Spas: lab4.md
       # - Lab 1 - Getting Started: lab1_getting_started.md
       # - Conclusion: conclusion.md
   # - Topologies: topologies.md
-  - How to use this guide:
-      - Setting up and using the tool:
-        - Initial Setup: howToUse/initialSetup.md
-        - Using the tool after the initial setup: howToUse/postInitial.md
-        - Publishing your changes: howToUse/syncChanges.md
-      - Styling and Advanced Features:
-        - Markdown and Other References: howToUse/references.md
-        - Custom Features: howToUse/customFeatures.md
-        - Custom Admonitions: howToUse/admonition.md
+  # - How to use this guide:
+  #     - Setting up and using the tool:
+  #       - Initial Setup: howToUse/initialSetup.md
+  #       - Using the tool after the initial setup: howToUse/postInitial.md
+  #       - Publishing your changes: howToUse/syncChanges.md
+  #     - Styling and Advanced Features:
+  #       - Markdown and Other References: howToUse/references.md
+  #       - Custom Features: howToUse/customFeatures.md
+  #       - Custom Admonitions: howToUse/admonition.md
  
